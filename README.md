@@ -41,6 +41,6 @@ It allows users to generate strong, customizable passwords based on selected cri
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/secrux.git
+git clone https://github.com/itsmepawansaini/Secrux.git
 cd secrux
 npm install
